@@ -19,5 +19,6 @@ search_movie(): Handles searching for movies by title or genre.
 recommend_top_n(): Handles recommending top movies based on user input.
 delete_movie(): Handles deleting a movie by title.
 Other functions handle setting up GUI components and managing user interactions.
+![image](https://github.com/Shri-Sharan/CineMatch_MP01/assets/146396309/89208db8-d87b-4606-994c-5436a24584b5)
 
 
